@@ -1,0 +1,56 @@
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\My Custom control Library\bin\Debug\My Custom control Library.dll
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\My Custom control Library\bin\Debug\My Custom control Library.pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.csproj.AssemblyReference.cache
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library_MarkupCompile.cache
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library_MarkupCompile.lref
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\Themes\Generic.baml
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.g.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My_Custom_control_Library.Properties.Resources.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.csproj.GenerateResource.cache
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.csproj.CoreCompileInputs.cache
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.dll
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My_Custom_control_Library.CustomControl2.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\bin\Debug\My Custom control Library.dll
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\bin\Debug\My Custom control Library.pdb
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.csproj.AssemblyReference.cache
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library_MarkupCompile.cache
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library_MarkupCompile.lref
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\Themes\Generic.baml
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.g.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My_Custom_control_Library.CustomControl2.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My_Custom_control_Library.Properties.Resources.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.csproj.GenerateResource.cache
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.csproj.CoreCompileInputs.cache
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.dll
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\bin\Debug\My Custom control Library.dll
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\bin\Debug\My Custom control Library.pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.csproj.AssemblyReference.cache
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library_MarkupCompile.cache
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library_MarkupCompile.lref
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\Themes\Generic.baml
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.g.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My_Custom_control_Library.CustomControl2.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My_Custom_control_Library.Properties.Resources.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.csproj.GenerateResource.cache
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.csproj.CoreCompileInputs.cache
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.dll
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.pdb
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\My Custom control Library\bin\Debug\My Custom control Library.dll
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\My Custom control Library\bin\Debug\My Custom control Library.pdb
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.csproj.AssemblyReference.cache
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library_MarkupCompile.cache
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library_MarkupCompile.lref
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\Themes\Generic.baml
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.g.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My_Custom_control_Library.CustomControl2.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My_Custom_control_Library.Properties.Resources.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.csproj.GenerateResource.cache
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.csproj.CoreCompileInputs.cache
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.dll
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\My Custom control Library\obj\Debug\My Custom control Library.pdb

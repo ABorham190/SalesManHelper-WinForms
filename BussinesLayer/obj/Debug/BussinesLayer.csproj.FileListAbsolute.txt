@@ -1,0 +1,18 @@
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\BussinesLayer\bin\Debug\BussinesLayer.dll
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\BussinesLayer\bin\Debug\BussinesLayer.pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\BussinesLayer\bin\Debug\DataLayer.dll
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\BussinesLayer\bin\Debug\DataLayer.pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\BussinesLayer\obj\Debug\BussinesLayer.csproj.AssemblyReference.cache
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\BussinesLayer\obj\Debug\BussinesLayer.csproj.CoreCompileInputs.cache
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\BussinesLayer\obj\Debug\BussinesLayer.dll
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\BussinesLayer\obj\Debug\BussinesLayer.pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\BussinesLayer\obj\Debug\Bussines.7AD6049C.Up2Date
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\BussinesLayer\bin\Debug\BussinesLayer.dll
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\BussinesLayer\bin\Debug\BussinesLayer.pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\BussinesLayer\bin\Debug\DataLayer.dll
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\BussinesLayer\bin\Debug\DataLayer.pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\BussinesLayer\obj\Debug\BussinesLayer.csproj.AssemblyReference.cache
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\BussinesLayer\obj\Debug\BussinesLayer.csproj.CoreCompileInputs.cache
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\BussinesLayer\obj\Debug\Bussines.7AD6049C.Up2Date
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\BussinesLayer\obj\Debug\BussinesLayer.dll
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\BussinesLayer\obj\Debug\BussinesLayer.pdb

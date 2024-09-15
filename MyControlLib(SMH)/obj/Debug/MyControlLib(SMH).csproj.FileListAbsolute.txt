@@ -1,0 +1,64 @@
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\MyControlLib(SMH).dll
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\MyControlLib(SMH).pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).csproj.AssemblyReference.cache
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).csproj.GenerateResource.cache
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).csproj.CoreCompileInputs.cache
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).dll
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\BussinesLayer.dll
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\My Custom control Library.dll
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\DataLayer.dll
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\BussinesLayer.pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\My Custom control Library.pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\DataLayer.pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib_SMH_.ctrAddEditProductInfo.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyContro.D4B5BCC6.Up2Date
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib_SMH_.ctrlShowProductDetails.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\MyControlLib(SMH).dll
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\MyControlLib(SMH).pdb
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\BussinesLayer.dll
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\My Custom control Library.dll
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\DataLayer.dll
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\BussinesLayer.pdb
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\My Custom control Library.pdb
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\DataLayer.pdb
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).csproj.AssemblyReference.cache
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib_SMH_.ctrAddEditProductInfo.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib_SMH_.ctrlShowProductDetails.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).csproj.GenerateResource.cache
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).csproj.CoreCompileInputs.cache
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyContro.D4B5BCC6.Up2Date
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).dll
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\MyControlLib(SMH).dll
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\MyControlLib(SMH).pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\BussinesLayer.dll
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\My Custom control Library.dll
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\DataLayer.dll
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\BussinesLayer.pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\My Custom control Library.pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\DataLayer.pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).csproj.AssemblyReference.cache
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib_SMH_.ctrAddEditProductInfo.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib_SMH_.ctrlShowProductDetails.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).csproj.GenerateResource.cache
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).csproj.CoreCompileInputs.cache
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyContro.D4B5BCC6.Up2Date
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).dll
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).pdb
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\MyControlLib(SMH).dll
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\MyControlLib(SMH).pdb
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\BussinesLayer.dll
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\My Custom control Library.dll
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\DataLayer.dll
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\BussinesLayer.pdb
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\My Custom control Library.pdb
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\bin\Debug\DataLayer.pdb
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).csproj.AssemblyReference.cache
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib_SMH_.ctrAddEditProductInfo.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib_SMH_.ctrlShowProductDetails.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).csproj.GenerateResource.cache
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).csproj.CoreCompileInputs.cache
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyContro.D4B5BCC6.Up2Date
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).dll
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\MyControlLib(SMH)\obj\Debug\MyControlLib(SMH).pdb

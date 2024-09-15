@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0CDA751D-034F-4BE2-919C-9584D946D615}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SalesManHelper</RootNamespace>
+    <AssemblyName>SalesManHelper</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAddEditCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditCustomer.Designer.cs">
+      <DependentUpon>frmAddEditCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditProductInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditProductInfo.Designer.cs">
+      <DependentUpon>frmAddEditProductInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditSalesInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditSalesInvoice.Designer.cs">
+      <DependentUpon>frmAddEditSalesInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditSupplierInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditSupplierInfo.Designer.cs">
+      <DependentUpon>frmAddEditSupplierInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddNewCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddNewCollection.Designer.cs">
+      <DependentUpon>frmAddNewCollection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomersList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomersList.Designer.cs">
+      <DependentUpon>frmCustomersList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGetAllCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGetAllCustomers.Designer.cs">
+      <DependentUpon>frmGetAllCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOutStandingCheques.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOutStandingCheques.Designer.cs">
+      <DependentUpon>frmOutStandingCheques.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalesAndCollectionInAPeriod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalesAndCollectionInAPeriod.Designer.cs">
+      <DependentUpon>frmSalesAndCollectionInAPeriod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalesInvoices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalesInvoices.Designer.cs">
+      <DependentUpon>frmSalesInvoices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyTextBox.Designer.cs">
+      <DependentUpon>MyTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductDetails.Designer.cs">
+      <DependentUpon>frmProductDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductsList.Designer.cs">
+      <DependentUpon>ProductsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditCustomer.resx">
+      <DependentUpon>frmAddEditCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditProductInfo.resx">
+      <DependentUpon>frmAddEditProductInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditSalesInvoice.resx">
+      <DependentUpon>frmAddEditSalesInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditSupplierInfo.resx">
+      <DependentUpon>frmAddEditSupplierInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddNewCollection.resx">
+      <DependentUpon>frmAddNewCollection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomersList.resx">
+      <DependentUpon>frmCustomersList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGetAllCustomers.resx">
+      <DependentUpon>frmGetAllCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOutStandingCheques.resx">
+      <DependentUpon>frmOutStandingCheques.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductDetails.resx">
+      <DependentUpon>frmProductDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalesAndCollectionInAPeriod.resx">
+      <DependentUpon>frmSalesAndCollectionInAPeriod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalesInvoices.resx">
+      <DependentUpon>frmSalesInvoices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductsList.resx">
+      <DependentUpon>ProductsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BussinesLayer\BussinesLayer.csproj">
+      <Project>{82d08ae4-bd98-42dd-8f58-0220519e9b45}</Project>
+      <Name>BussinesLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\My Custom control Library\My Custom control Library.csproj">
+      <Project>{1DFD1D61-9E01-4106-81A4-DFBF7D11631C}</Project>
+      <Name>My Custom control Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyControlLib%28SMH%29\MyControlLib%28SMH%29.csproj">
+      <Project>{a4119162-ade2-49a5-a015-ccb6d0f24abf}</Project>
+      <Name>MyControlLib%28SMH%29</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\track_medications.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\track_medications %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pharmacy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add %282%292.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

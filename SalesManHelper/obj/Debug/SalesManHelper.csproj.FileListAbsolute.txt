@@ -1,0 +1,128 @@
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\SalesManHelper.exe.config
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\SalesManHelper.exe
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\SalesManHelper.pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\BussinesLayer.dll
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\DataLayer.dll
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\BussinesLayer.pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\DataLayer.pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.csproj.AssemblyReference.cache
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.Form1.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.Properties.Resources.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.csproj.GenerateResource.cache
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.csproj.CoreCompileInputs.cache
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.exe
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\MyControlLib(SMH).dll
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\MyControlLib(SMH).pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\My Custom control Library.dll
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\My Custom control Library.pdb
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditProductInfo.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesMan.8D9A3A0F.Up2Date
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmProductDetails.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.Main.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.ProductsList.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditSupplierInfo.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditCustomer.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmGetAllCustomers.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditSalesInvoice.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddNewCollection.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmCustomersList.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmSalesInvoices.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmOutStandingCheques.resources
+E:\programming main\Projects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmSalesAndCollectionInAPeriod.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\SalesManHelper.exe.config
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\SalesManHelper.exe
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\SalesManHelper.pdb
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\BussinesLayer.dll
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\My Custom control Library.dll
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\MyControlLib(SMH).dll
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\DataLayer.dll
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\BussinesLayer.pdb
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\My Custom control Library.pdb
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\MyControlLib(SMH).pdb
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\DataLayer.pdb
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.csproj.AssemblyReference.cache
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.Form1.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditCustomer.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditProductInfo.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditSalesInvoice.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditSupplierInfo.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddNewCollection.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmCustomersList.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmGetAllCustomers.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmOutStandingCheques.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmProductDetails.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmSalesAndCollectionInAPeriod.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmSalesInvoices.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.Main.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.ProductsList.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.Properties.Resources.resources
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.csproj.GenerateResource.cache
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.csproj.CoreCompileInputs.cache
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesMan.8D9A3A0F.Up2Date
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.exe
+E:\programming main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\SalesManHelper.exe.config
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\SalesManHelper.exe
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\SalesManHelper.pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\BussinesLayer.dll
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\My Custom control Library.dll
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\MyControlLib(SMH).dll
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\DataLayer.dll
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\BussinesLayer.pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\My Custom control Library.pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\MyControlLib(SMH).pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\DataLayer.pdb
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.csproj.AssemblyReference.cache
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.Form1.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditCustomer.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditProductInfo.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditSalesInvoice.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditSupplierInfo.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddNewCollection.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmCustomersList.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmGetAllCustomers.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmOutStandingCheques.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmProductDetails.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmSalesAndCollectionInAPeriod.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmSalesInvoices.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.Main.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.ProductsList.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.Properties.Resources.resources
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.csproj.GenerateResource.cache
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.csproj.CoreCompileInputs.cache
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesMan.8D9A3A0F.Up2Date
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.exe
+E:\programming_main\MyProjects\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.pdb
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\SalesManHelper.exe.config
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\SalesManHelper.exe
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\SalesManHelper.pdb
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\BussinesLayer.dll
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\My Custom control Library.dll
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\MyControlLib(SMH).dll
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\DataLayer.dll
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\BussinesLayer.pdb
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\My Custom control Library.pdb
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\MyControlLib(SMH).pdb
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\bin\Debug\DataLayer.pdb
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.csproj.AssemblyReference.cache
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.Form1.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditCustomer.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditProductInfo.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditSalesInvoice.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddEditSupplierInfo.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmAddNewCollection.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmCustomersList.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmGetAllCustomers.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmOutStandingCheques.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmProductDetails.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmSalesAndCollectionInAPeriod.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.frmSalesInvoices.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.Main.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.ProductsList.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.Properties.Resources.resources
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.csproj.GenerateResource.cache
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.csproj.CoreCompileInputs.cache
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesMan.8D9A3A0F.Up2Date
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.exe
+E:\programming_main\MyProjects\projects_in_git\Sales_Man_Helper_Whole_Project\SalesManHelper\obj\Debug\SalesManHelper.pdb
